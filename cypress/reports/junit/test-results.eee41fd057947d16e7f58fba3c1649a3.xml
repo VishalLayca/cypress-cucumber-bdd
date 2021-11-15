@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="17.3440" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-15T13:44:47" tests="0" file="cypress\integration\socialNetworks\Facebook.feature" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="The Facebook" timestamp="2021-11-15T13:44:47" tests="2" time="17.2880" failures="0">
+    <testcase name="The Facebook Opening a social network page" time="5.4820" classname="Opening a social network page">
+    </testcase>
+    <testcase name="The Facebook Different kind of opening" time="4.2760" classname="Different kind of opening">
+    </testcase>
+  </testsuite>
+</testsuites>

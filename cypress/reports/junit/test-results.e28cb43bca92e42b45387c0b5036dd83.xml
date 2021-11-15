@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="20.7770" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-15T13:45:30" tests="0" file="cypress\integration\socialNetworks\GitHub.feature" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="The Github" timestamp="2021-11-15T13:45:30" tests="2" time="20.7240" failures="0">
+    <testcase name="The Github Opening GitHub" time="6.8330" classname="Opening GitHub">
+    </testcase>
+    <testcase name="The Github Opening GitHub again" time="6.8760" classname="Opening GitHub again">
+    </testcase>
+  </testsuite>
+</testsuites>

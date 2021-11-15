@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="28.5800" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-11-15T13:43:41" tests="0" file="cypress\integration\news\Google.feature" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="The Google" timestamp="2021-11-15T13:43:41" tests="2" time="28.4590" failures="0">
+    <testcase name="The Google Opening a Google network page" time="8.1970" classname="Opening a Google network page">
+    </testcase>
+    <testcase name="The Google Different kind of opening" time="6.8570" classname="Different kind of opening">
+    </testcase>
+  </testsuite>
+</testsuites>
